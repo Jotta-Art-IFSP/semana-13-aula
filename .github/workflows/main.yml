@@ -17,4 +17,4 @@ jobs:
 
     - name: Executar testes
       run: |
-               python testes.py
+               python semana-13-aula/testes.py
