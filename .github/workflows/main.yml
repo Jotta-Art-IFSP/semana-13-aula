@@ -17,4 +17,4 @@ jobs:
 
     - name: Executar testes
       run: |
-        python -m unittest # Substitua pelo comando de teste específico
+        python -m setUp
